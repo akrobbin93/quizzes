@@ -1,3 +1,11 @@
+#----------------------------------------
+#riverSizes.py
+#Author: akrobbin93
+#Quiz: Given any matrix of 0's and 1's,
+#calculate each "river" of 1's, no diagonal connections
+#----------------------------------------
+
+
 #-------------------------------------------------------------
 def riverSizes(matrix):
     marked = set()
